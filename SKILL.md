@@ -1,12 +1,10 @@
 ---
 name: ai-capability-safety-assessment
-description: Evaluate an AI system or capability for safety implications using Geoffrey
-  Hinton's framework - the perspective of someone who built these systems and now
-  warns about their risks.
+description: Evaluate an AI system or capability for safety implications using Geoffrey Hinton's framework - the perspective of someone who built these systems and now warns about their risks.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - ai-capability-safety-assessment
 - structure
