@@ -4,7 +4,8 @@ description: Evaluate an AI system or capability for safety implications using G
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3352
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ai-capability-safety-assessment
 - structure
